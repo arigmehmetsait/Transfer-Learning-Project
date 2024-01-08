@@ -18,40 +18,19 @@
 
 ## Proje Açıklaması
 
-Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsamı, kullanılan teknolojiler ve belki de projenin nasıl çalıştırılacağı gibi önemli bilgileri içermelidir.
 
 Halk arasında Zatürre olarak bilinen Pneumonia hastalığına ait X-RAY görüntüleri kullanılarak Viral mi yoksa Bakteriyel mi olduğunu anlamak istiyoruz. Veri setinde bulunan bilgilerin
 bir kısmını eğitim bir kısmını test ve bir kısmını da validation için ayırıyoruz. Ve çıkan değerleri inceliyoruz.
 
 -Projemizi Colab kullanarak gerçekleştirdik. 
 -Pyhton 3.7 veya üzeri programlama dilini kullandık.
--Keras, Sklearn, TensorFlow, numpy, matplotlib, pandas, seaborn ve cv2 gibi kütüphaneleri kullandık. 
+-Keras, Sklearn, TensorFlow, numpy, matplotlib, pandas gibi kütüphaneleri kullandık. 
 -Veri setini ve resimleri de baz alarak projemizi gerçekleştirdik.
 ---
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-- **/src**
-  - **/components**
-    - `Component1.js`
-    - `Component2.js`
-  - **/utils**
-    - `utility.js`
-- **/public**
-  - `index.html`
-- `README.md`
-- `LICENSE`  
-
-
-- **/sample_data**
-- `README.md`
-- `anscombe.json`  
-- `california_housing_test.csv`
-- `california_housing_train.csv`  
-- `mnist_test.cvs`  
-- `mnist_train_small.csv`  
-  
+ProjeÖdevi.ipynb
 
   
 
@@ -61,17 +40,10 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ## Kurulum
 
-Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin.  
-Gerekli bağımlılıkların nasıl yükleneceği (veri seti, kullanılan kütüphanelerin sürümleri vs.), konfigürasyon adımları vb. bu bölümde bulunabilir.
-
+Verisetini drive'a bağlıyoruz.
 .ipynb uzantılı dosyayı indiriyoruz. 
 Google Drive açıp dosyayı buraya yüklüyoruz.
 Daha sonra Colab'a yönlendiriliyoruz ve projenin kodları elimizde oluyor.
-
-
-Kodları paylaştığımız Github dosyasını
-Gerekli veri setini bilgisayarımıza indiriyoruz.
-
 
 ---
 
@@ -81,9 +53,14 @@ Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, projenizi 
 
 ---
 
+## Veri seti linki
+
+https://drive.google.com/file/d/1QlnV6PUZ3ic8M1_22cC5bAjJocYZKn1P/view
+
 ## Katkılar
 
 Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
+
 
 https://keras.io/guides/ 
 https://github.com/topics/transfer-learning
@@ -93,4 +70,6 @@ Buradaki kaynaklardan bilgi edindik.
 
 ## İletişim
 
-Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
+Ahmet Uğur GÜlsevinç: Ugurgl_65@hotmail.com
+Ahmetcan Çetin: ahmetcancetinz@gmail.com
+Mehmet Sait Arığ: arigmehmetsait@gmail.com
