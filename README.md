@@ -32,9 +32,6 @@ bir kısmını eğitim bir kısmını test ve bir kısmını da validation için
 
 ProjeÖdevi.ipynb
 
-  
-
-
 
 ---
 
@@ -59,11 +56,10 @@ https://drive.google.com/file/d/1QlnV6PUZ3ic8M1_22cC5bAjJocYZKn1P/view
 
 ## Katkılar
 
-Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
-
-
 https://keras.io/guides/ 
-https://github.com/topics/transfer-learning
+https://github.com/topics/transfer-learning,
+Github.com
+ChatGPT
 
 Buradaki kaynaklardan bilgi edindik.
 ---
